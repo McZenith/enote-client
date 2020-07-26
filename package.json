@@ -27,33 +27,33 @@
     "*.{js,ts,tsx,scss,less}": "yoshi lint"
   },
   "devDependencies": {
-    "@types/express": "^4.17.2",
-    "@types/express-session": "~1.15.0",
-    "@types/node": "^12.0.0",
-    "@types/react": "^16.7.20",
-    "@types/react-dom": "^16.0.11",
-    "husky": "^4.2.1",
-    "jest-yoshi-preset": "^4.1.0",
-    "lint-staged": "^10.0.7",
-    "puppeteer": "^1.1.0",
-    "typescript": "~3.9.0",
-    "yoshi": "^4.1.0",
-    "yoshi-style-dependencies": "^4.1.0"
+    "@types/express": "^4.17.7",
+    "@types/express-session": "~1.17.0",
+    "@types/node": "^14.0.26",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "husky": "^4.2.5",
+    "jest-yoshi-preset": "^4.87.0",
+    "lint-staged": "^10.2.11",
+    "puppeteer": "^5.2.1",
+    "typescript": "~3.9.7",
+    "yoshi": "^4.87.0",
+    "yoshi-style-dependencies": "^4.71.0"
   },
   "dependencies": {
-    "@testing-library/react": "^10.4.4",
-    "axios": "^0.19.0",
+    "@testing-library/react": "^10.4.7",
+    "axios": "^0.19.2",
     "classnames": "^2.2.6",
     "express": "^4.17.1",
-    "i18next": "^19.1.0",
+    "i18next": "^19.6.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-i18next": "^11.3.2",
+    "react-i18next": "^11.7.0",
     "react-responsive": "^8.1.0",
     "react-router-dom": "^5.2.0",
-    "velocity": "~0.7.0",
-    "wix-style-react": "^8.24.0",
-    "yoshi-template-intro": "^4.1.0"
+    "velocity": "~0.7.2",
+    "wix-style-react": "^8.32.0",
+    "yoshi-template-intro": "^4.87.0"
   },
   "jest": {
     "preset": "jest-yoshi-preset"
